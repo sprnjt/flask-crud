@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Docker
+docker-compose.override.yml
+
+# IDE Files
+.vscode/
+.idea/
+
+# Database Files
+*.db
+*.sqlite3
+
+# Temporary Files
+tmp/
